@@ -1,5 +1,5 @@
 ## Hi, I'm Hasini ✨
-### B.Tech CSE Student | IIT Madras BS in Data Science & Applications
+### B.Tech CSE Student @CMRCET | IIT Madras BS in Data Science & Applications
 
 🎓 Pursuing IIT Madras BS in Data Science & Applications<br/>
 💻 Currently learning Data Structures & Algorithms<br/>
